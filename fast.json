@@ -1,0 +1,6 @@
+{
+  "name": "FastCar Token",
+  "symbol": "FCAR",
+ "image": "https://raw.githubusercontent.com/advock/sol-image/refs/heads/main/fastcar.webp",
+ "description": "Fastest Car in the world"
+}
